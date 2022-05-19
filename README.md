@@ -1,2 +1,2 @@
 # kaggle-MarkdownOrder
-da página: https://www.kaggle.com/competitions/AI4Code
+Da comptetição do kaggle: https://www.kaggle.com/competitions/AI4Code
